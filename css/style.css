@@ -6,8 +6,9 @@ html {
   background-color: #a100004d;
   font-family: "Open sans", sans-serif;
 }
-h1, h2 {
-    font-weight: 700;
+h1,
+h2 {
+  font-weight: 700;
 }
 h1 {
   color: #a20000;
@@ -32,12 +33,13 @@ img {
   max-height: 500px;
   object-fit: cover;
 }
-ul, ol {
-    margin-left: 38px;
+ul,
+ol {
+  margin-left: 38px;
 }
 li > p {
-    display: inline;
-    margin-left: 8px;
+  display: inline;
+  margin-left: 8px;
 }
 main {
   max-width: 1280px;
@@ -62,6 +64,7 @@ small {
   font-size: 32px;
   width: fit-content;
   display: inline-block;
+  margin-left: 8px;
 }
 .servings-img-container {
   display: flex;
